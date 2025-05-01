@@ -1,4 +1,4 @@
-## this repo shows how to launch ml appliaction in dagsub server whihc also uses mlflow
+## this repo shows how to launch ml appliaction in dagsub server which uses mlflow
 
 # use below info to use the ml runs which is ruuning in dagsub server
 
